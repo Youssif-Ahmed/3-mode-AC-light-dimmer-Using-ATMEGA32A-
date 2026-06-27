@@ -1,4 +1,4 @@
-# Smart AC Light Dimmer using TRIAC (ATmega32A + ESP32)
+# Smart AC Light Dimmer using TRIAC (Using ATmega32A)
 
 A microcontroller-based AC light dimmer that controls the brightness of an AC lamp using **TRIAC phase-angle control** with **zero-cross detection**. The project is built around the **ATmega32A** and supports three different control methods: a potentiometer, a keypad, and wireless control through an **ESP32** using UART communication.
 
